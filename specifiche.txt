@@ -1,0 +1,9 @@
+Casi d'uso implementati:
+1) consulta offerta
+Dalla pagina iniziale index.jsp è possibile osservare l'elenco di tutte le tipologie di esami tramite il bottone "Tutte le tipologie", per ogni tipologia è inoltre possibile osservarne i dettagli (parametri e prerequisiti).
+2) crea un esame
+Una volta che il medico è registrato sul sistema dopo aver effettuato il login è possibile dalla pagina dei dettagli schedaMedico.jsp, il bottone "crea nuovo esame" permette di inserire nuovi esami con nome e tipologia.
+4) inserimento tipologia esame
+Allo stesso modo del UC precedente il medico può inserire tramite il bottone "crea nuova tipologia esame", le caratteristiche della suddetta e associarle a un esame creato precedentemente o successivamente.
+5) esami effettuati da un medico
+Il medico che è stato autenticato dalla propria pagina ha la possibilità di consultare i propri esami effettuati con dati e paziente associati.
